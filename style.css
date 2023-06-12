@@ -2,7 +2,8 @@
 
 :root{
     --cor-de-fundo: #ffee00;
-    --branco: #FFFFFF;
+    --branco:#FFFFFF;
+    --preto: #000000;
 }
 
 body{
