@@ -4,7 +4,7 @@
     --cor-de-fundo: #ffee00;
     --branco:#FFFFFF;
     --preto: #000000;
-    --azul-degrade: linear-gradiant(97.54deg, #002F52 35.49%, #326589 165.37%);
+    --azul-degrade: linear-gradiant(97.54deg, #000000 35.49%, #ffee00 165.37%);
 }
 
 body{
@@ -12,5 +12,9 @@ body{
 }
 
 h1{
-    background-color: rgb(1, 165, 165);
+    background-color: #ffee00;
+}
+
+.capa{
+
 }
